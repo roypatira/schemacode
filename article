@@ -1,0 +1,21 @@
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Article",
+  "name" : "Article Title (to be changed)",
+  "author" : {
+    "@type" : "Person",
+    "name" : "Author Name (to be changed)"
+  },
+  "datePublished" : "2018-07-20",
+  "image" : "image URL (to be changed)",
+  "articleSection" : "Article Category (to be changed)",
+  “description” : “A small description about the article”,
+  "articleBody" : "You can paste the whole article over here.",
+  "url" : "Paste your article URL",
+  "publisher" : {
+    "@type" : "Organization",
+    "name" : "Your blog name"
+  }
+}
+</script>
